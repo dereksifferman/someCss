@@ -1,0 +1,26 @@
+body {
+	background-image: url(http://www.planwallpaper.com/static/images/b807c2282ab0a491bd5c5c1051c6d312.jpg);
+	background-size: cover;
+}
+
+img  {
+	width: 50px;
+	height: 50px;	
+	border-radius: 10px;
+	float: right;
+	margin: 20px;
+}
+
+.first {
+	font-style: italic;
+	border-style: dotted;
+	
+}
+
+p {
+	color: white;
+}
+
+h1 {
+	color: white;
+}
